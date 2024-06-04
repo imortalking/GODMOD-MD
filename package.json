@@ -1,23 +1,23 @@
 {
-  "name": "beltah-md",
+  "name": "godmod-md",
   "version": "1.0.0",
   "description": "",
-  "main": "beltah.js",
+  "main": "godmod.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node beltah.js",
-    "beltah": "pm2 start beltah.js --attach --max-memory-restart 490M",
+    "s": "node godmod.js",
+    "godmod": "pm2 start godmod.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Beltah",
+    "Godmod",
     "whatsapp",
     "whatsapp-bot",
     "Faouz995"
   ],
-  "author": "Beltah Tech Team",
+  "author": "Imortal Tech Team",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
