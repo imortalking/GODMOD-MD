@@ -6,7 +6,7 @@
 <div align="center">
 
 [GODMOD MD]
-<a href="https://ibb.co/TqPrGzv"><img src="https://i.ibb.co/zHPNgKn/IMG-2024 0414-WA0150.jpg" alt="IMG-20240414-WA 0150" border="0" a>
+"https://telegra.ph/file/cb63e379b1aec8bdf7350.jpg"
 
 |----|
 
