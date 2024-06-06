@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧〈 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 〉 ✧───◆
+╭────✧〈 GODMOD 𝗠𝗗 〉 ✧───◆
 │╭─────────────⏣
 ┴│▸ *User* : ${s.OWNER_NAME}
 ⬡│▸ *Prefix* : ${s.PREFIXE}
@@ -47,7 +47,7 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 ╭───────────⏣
-   *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 V1.0.0*
+   *GODMOD 𝗠𝗗 V1.0.0*
 ╰───────────⏣
 
 ◇ *LIST OF COMMANDS* ◇
@@ -66,11 +66,11 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————————— ★ ——————————««*
-|⏣BELTAH-MD CREATED BY BELTAH TECH TEAM
+|⏣GODMOD-MD CREATED BY MALVIN KING
 
-|⏣THANK YOU FOR CHOOSING _*𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗*_
+|⏣THANK YOU FOR CHOOSING _*GODMOD 𝗠𝗗*_
 
-|⏣𝑭𝑰𝑳𝑬 𝑮𝑬𝑵𝑬𝑹𝑨𝑻𝑬𝑫 𝑩𝒀 𝑩𝑬𝑳𝑻𝑨𝑯 𝑻𝑬𝑪𝑯 𝑻𝑬𝑨𝑴                                             
+|⏣𝑭𝑰𝑳𝑬 𝑮𝑬𝑵𝑬𝑹𝑨𝑻𝑬𝑫 𝑩𝒀 GODMOD-MD TECH TEAM                                           
 *»»—————————— ★ ——————————««*
 `;
 
@@ -78,7 +78,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *malvinking*, déveloper GODMOD Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -88,7 +88,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *malvinking*, déveloper MALVIN KING" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
