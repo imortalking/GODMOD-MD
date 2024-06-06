@@ -33,7 +33,7 @@ async (dest, zk, commandeOptions) => {
 
 
 
-await repondre(`*_BELTAH-MD SPEED IS :_*_${flashspeed} MS_* `);
+await repondre(`** GODMOD-MD SPEED IS :_*_${flashspeed} MS_* `);
 
 }
 );
@@ -70,7 +70,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Uptime of BELTAH-MD is: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_Uptime of GODMOD-MD is: ${runtime(process.uptime())}_*`) 
 
    
 
@@ -98,7 +98,7 @@ zokou({ nomCom: 'ss',
 let linkkk = `https://api.maher-zubair.tech/misc/sstab?url=${linkk}&dimension=720x720`;
 
 let res = await getBuffer(linkkk);
-   let caption = '*Powered by FLASH-MD*' 
+   let caption = '*Powered by GODMOD-MD*' 
 
 await zk.sendMessage(dest, { image: res }, { caption: caption }, { quoted: ms });
 
