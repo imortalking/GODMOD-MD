@@ -2,7 +2,7 @@
   "name":"ʙᴇʟᴛᴀʜ-ᴛᴇᴄʜ-ʙᴏᴛ",
   "description":"𝙷𝚎𝚕𝚕𝚘 👋, 𝙸 𝚊𝚖 GODMOD 𝙱𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 Malvin King.",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
+  "logo":"https://telegra.ph/file/cb63e379b1aec8bdf7350.jpg",
   "repository":"https://github.com/malvinking/GODMOD-MD",
   "succes_url":"/",
   "stack":"container",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":"+",
+      "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
+      "value":"https://telegra.ph/file/cb63e379b1aec8bdf7350.jpg",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Beltah Tech"
+    "value": "MALVIN KING"
   },
     "NUMERO_OWNER":
   {
