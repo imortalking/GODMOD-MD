@@ -804,22 +804,22 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Beltah is connecting...");
+                console.log("ℹ️ GODMOD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Beltah Connected to WhatsApp! ☺️");
+                console.log("✅ GODMOD Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Beltah Md is Online 🕸\n\n");
+                console.log("GODMOD MD is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Beltah Commands ...\n");
-                fs.readdirSync(__dirname + "/beltah").forEach((fichier) => {
+                console.log("Loading GODMOD Commands ...\n");
+                fs.readdirSync(__dirname + "/GODMOD").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/beltah/" + fichier);
+                            require(__dirname + "/GODMOD/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
@@ -845,9 +845,9 @@ zk.ev.on('group-participants.update', async (group) => {
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `  ☉ 𝗕𝗘𝗟𝗧𝗔𝗛-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 ☉
+                let cmsg = `  ☉ GODMOD 𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 ☉
 ╭──────────────⁠☉
-  ❒⁠⁠⁠⁠𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : 𝙱𝚎𝚕𝚝𝚊𝚑 𝚃𝚎𝚌𝚑
+  ❒⁠⁠⁠⁠𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : GODMOD MD
   ❒⁠⁠⁠⁠𝗣𝗿𝗲𝗳𝗶𝘅    : [ ${prefixe} ]  
   ❒⁠⁠⁠⁠𝗠𝗼𝗱𝗲     : ${md}
   ❒⁠⁠⁠⁠𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀: ${evt.cm.length}︎
@@ -855,9 +855,9 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ╭──────────────⁠☉ 
   ☉𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗟𝗶𝗻𝗸: 
- [youtube.com/@Beltahtech2024] 
+ [youtubetoLocal @IMORTALMD] 
 
-  ★𝗕𝗲𝗹𝘁𝗮𝗵-𝗧𝗲𝗰𝗵-𝗧𝗲𝗮𝗺
+  ★GODMOD-𝗧𝗲𝗰𝗵-𝗧𝗲𝗮𝗺
 ╰──────────────⏣`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
