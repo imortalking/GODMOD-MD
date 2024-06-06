@@ -5,7 +5,7 @@ zokou({ nomCom: "repo", reaction: "📔", nomFichier: __filename }, async (dest,
 
 
 const githubRepo = 'https://api.github.com/repos/malvinking/GODMOD-MD;
-const img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+const img = 'https://telegra.ph/file/cb63e379b1aec8bdf7350.jpg';
 
 
     const response = await fetch(githubRepo); 
