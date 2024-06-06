@@ -210,7 +210,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ Beltah rank┗━━━┓
+┏━━━┛ GODMOD rank┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
