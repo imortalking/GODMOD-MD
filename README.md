@@ -5,10 +5,9 @@
   </p>
 <div align="center">
 
-[GODMOD MD]
-"https://telegra.ph/file/cb63e379b1aec8bdf7350.jpg"
-
+ [![Beltah KE](https://telegra.ph/file/cb63e379b1aec8bdf7350.jpg?lenght=50width=50)](https://github.com/malvinking)|
 |----|
+
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=GODMOD-MD+IS+A+SIMPLE+BOT" alt="">
@@ -48,7 +47,7 @@
 
  ## CONTACT DEVELOPER
 
-⏣REACH GODMOD-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/263718408014)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/beltah254) 
+⏣REACH GODMOD-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/+263780934873)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/malvink1ng) 
 
 ## CONTRIBUTIONS
 
@@ -73,8 +72,8 @@ The WhatsApp Bot GODMOD 𝗠𝗗 is released under the [MIT License](https://ope
 
 ## DEVELOPERS :
 
-- [**IMORTAL TECH**](https://github.com/malvinking)
+- [**GODMOD TECH**](https://github.com/malvinking)
 - [**FRANCE KING**](https://github.com/franceking1)
 - [**GIFTED TECH**](https://github.com/mouricedevs)
 - 
-★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Imortal-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
+★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 GODMOD-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
