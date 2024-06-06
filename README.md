@@ -32,7 +32,7 @@
 
 ⏣PAIR YOUR WHATSAPP BY CLICKING [**HERE**](https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/pair) 
 
-⏣[**VISIT**](https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/) IMORTAL TECH SITES; <br>
+⏣[**VISIT**](https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/) GODMOD TECH SITES; <br>
 
 
 ## 4. DEPLOY NOW ON HEROKU 
