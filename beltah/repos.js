@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "repo", reaction: "📔", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
-const githubRepo = 'https://api.github.com/repos/Beltahmd/beltah-md';
+const githubRepo = 'https://api.github.com/repos/malvinking/GODMOD-MD;
 const img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
 
 
@@ -22,7 +22,7 @@ const img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
 const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
             const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-const gitdata = ` 😊Hello,I AM Beltah-Md, A Multidevice Whatsapp User Bot with amazing features.
+const gitdata = ` 😊Hello,I AM GODMOD MD, A Multidevice Whatsapp User Bot with amazing features.
 
 *FORK AND GIVE A STAR 🌟 TO OUR RESPIRATORY* 
 
@@ -33,10 +33,10 @@ const gitdata = ` 😊Hello,I AM Beltah-Md, A Multidevice Whatsapp User Bot with
 ❒⁠⁠⁠⁠ *Repo*: ${data.html_url}
 ❒⁠⁠⁠⁠ *UPDATE ON*: ${repoInfo.lastUpdate}
 ❒⁠⁠⁠⁠ *VISIT FOR TUTORIAL👇* : 
-❒⁠⁠⁠⁠ *_youtube.com/@Beltahtech2024_*
-❒⁠⁠⁠⁠ *DEVELOPER*: *𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇*
+❒⁠⁠⁠⁠ *_youtube.com/@IMORTALMD_*
+❒⁠⁠⁠⁠ *DEVELOPER*: *GODMOD 𝐓𝐄𝐂𝐇*
 __________________________________
-  ◆Made on Earth by Beltah tech◆`;
+  ◆Made on Earth by GODMOD tech◆`;
 
 
 await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
