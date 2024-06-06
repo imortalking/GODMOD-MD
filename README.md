@@ -25,7 +25,7 @@
 
 ## GET GODMOD 𝗠𝗗 
 
-<a href="https://github.com/malvinking/GODMOD/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK GODMOD-MD REPO" width="300"></a>
+<a href="https://github.com/malvinking/GODMOD/fork"><img src="https://img.shields.io/badge/Fork%20GODMOD-MD%20Repo-blue" alt="FORK GODMOD-MD REPO" width="300"></a>
 
 ## GET YOUR SESSION ID: 
 
