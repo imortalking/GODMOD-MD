@@ -25,19 +25,23 @@
 
 ## GET GODMOD 𝗠𝗗 
 
-1. STAR 🌟 THE REPO FIRST THEN CLICK ON **[FORK](https://github.com/malvinking/godmod-md/fork)** BEFORE DEPLOYING YOUR BOT.
-
+<a href="https://github.com/malvinking/GODMOD/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK GODMOD-MD REPO" width="300"></a>
 
 ## GET YOUR SESSION ID: 
 
-⏣PAIR YOUR WHATSAPP BY CLICKING [**HERE**](https://godmod-pairing-code-b11a94d6c0f0.herokuapp.com/pair) 
+<a href="https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+
+
+<a href="https://GODMOD-pairing-code-b11a94d6c0f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+
+
 
 ⏣[**VISIT**](https://godmod-pairing-code-b11a94d6c0f0.herokuapp.com/) GODMOD TECH SITES; <br>
 
 
 ## 4. DEPLOY NOW ON HEROKU 
     
-⏣ [**DEPLOY**](https://dashboard.heroku.com/new?template=https://github.com/malvinking/GODMOD-MD) GODMOD MD NOW. 
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/malvinking/GODMOD-MD&template=https://github.com/malvinking/GODMOD-MD.git)*** 
 
  ## WATCH TUTORIAL AND SUBSCRIBE
 
